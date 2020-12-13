@@ -7,7 +7,7 @@ Tech Stack:
 
 - Backend: NodeJS, Python, PHP.
 - Machine Learning Technologies: Python, R, C++.
-- Architecture: Serverless, Microservices.
+- Architecture: Serverless, Microservices, TDD, EDD.
 - Frontend: React, Vue JS
 - Mobile: Flutter, React Native
 - Database: Oracle, MySql, Postgres. MongoDB.
