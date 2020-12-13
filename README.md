@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Diego
-[<img src='https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg' alt='linkedin' height='30'>](https://dev.to/ihchowdhury)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/diego-huarcaya-taquiri-161b94107/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/diego-huarcaya-taquiri-161b94107/)
 
 2+ years of experience in designing and developing scalable and highly available software­-​as­-​a­​service applications using LAMP & MERN stack.  I am always open in working with new tech stack. Following are my current tech stack.
 
@@ -10,7 +10,7 @@ Tech Stack:
 - Architecture: Serverless, Microservices.
 - Frontend: React, Vue JS
 - Mobile: Flutter, React Native
-- Database: Oracle, MySql, Postgres
+- Database: Oracle, MySql, Postgres. MongoDB.
 - Cloud: Amazon Web Services.
 - Version Control: Git
 - Prototyping: JustInMind, AdobeXD
